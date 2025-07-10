@@ -15,5 +15,5 @@
 📬 Reach me at: sanghothithanh@gmail.com](mailto:sanghothithanh@gmail.com)
 
 🌐 Visit my project:
-[Live Gradio Demo](https://gradio.live...) | [Google Sheet Log](https://docs.google.com/spreadsheets/d/1DyunpedkCQ0NZhUf2Ecr3bVbigbK3-AXrYPwQv8xgfE/edit?gid=0#gid=0))
+[Live Gradio Demo]((https://c86058943b83fea61f.gradio.live)) | [Google Sheet Log](https://docs.google.com/spreadsheets/d/1DyunpedkCQ0NZhUf2Ecr3bVbigbK3-AXrYPwQv8xgfE/edit?gid=0#gid=0))
 
