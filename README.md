@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lizzie!
 
-<!--
-**lizzie93/lizzie93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm learning Data Science and AI to solve real-world problems.
 
-Here are some ideas to get you started:
+🔭 My latest project: [Bitcoin Price Predictor](https://github.com/lizzie93/bitcoin-price-predictor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I used:
+- LSTM Neural Networks (TensorFlow/Keras)
+- Google Sheets API to log predictions
+- Gradio for a web interface
+- Data from CoinGecko API
+
+🌱 Currently exploring: time series forecasting, pandas, and deploying ML apps.
+
+📬 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)
+
+🌐 Visit my project:
+[Live Gradio Demo](https://gradio.live...) | [Google Sheet Log](https://docs.google.com/...)
+
