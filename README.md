@@ -12,8 +12,8 @@
 
 🌱 Currently exploring: time series forecasting, pandas, and deploying ML apps.
 
-📬 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)
+📬 Reach me at: sanghothithanh@gmail.com](mailto:sanghothithanh@gmail.com)
 
 🌐 Visit my project:
-[Live Gradio Demo](https://gradio.live...) | [Google Sheet Log](https://docs.google.com/...)
+[Live Gradio Demo](https://gradio.live...) | [Google Sheet Log](https://docs.google.com/spreadsheets/d/1DyunpedkCQ0NZhUf2Ecr3bVbigbK3-AXrYPwQv8xgfE/edit?gid=0#gid=0))
 
